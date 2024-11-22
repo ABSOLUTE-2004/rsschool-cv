@@ -17,3 +17,24 @@ In addition, I strive to constantly learn and acquire new skills. I believe that
 
 In addition to the above, I possess teamwork and communication skills, which allows me to interact effectively with colleagues and clients. I am confident that with this approach I will be able to achieve my goals and contribute to the development of the company I will be working for.
 
+# Skills
+Programming languages: HTML, CSS, Python, C#
+
+Frameworks: Bootstrap
+
+Version control systems: Git
+
+Development tools: Visual Studio Code, GitHub, Figma for interface design, browser-based developer tools.
+
+# Code Examples
+```
+      <nav class="nav">
+        <ul class="list">
+          <li class="list-item"><a href="./gifts.html" class="list-item__link">gifts</a></li>
+          <li class="list-item"><a href="#about" class="list-item__link">about</a></li>
+          <li class="list-item"><a href="#best" class="list-item__link">best</a></li>
+          <li class="list-item"><a href="#contacts" class="list-item__link">contacts</a></li>
+        </ul>
+      </nav>
+```
+

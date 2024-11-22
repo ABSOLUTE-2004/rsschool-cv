@@ -38,3 +38,8 @@ Development tools: Visual Studio Code, GitHub, Figma for interface design, brows
       </nav>
 ```
 
+# Education
+Fourth year student, majoring in "Physics. Programmer".
+
+# English Language
+English language level - A2
